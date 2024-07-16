@@ -9,7 +9,7 @@
 
     **3.** Create a _[top 5 and bottom 5 products](https://github.com/AbhishekPurbey02/Excel-Sales-Analytics/blob/main/Top%2010%20products%202020%20to%202021.pdf)_
 
-    **4.** Create a _[New Products-2021]()_
+    **4.** Create a _[New Products-2021](https://github.com/AbhishekPurbey02/Excel-Sales-Analytics/blob/main/New%20Products-2021.pdf)_
 
     **5.** Create a _[top 5 and bottom 5 products]()_
 
