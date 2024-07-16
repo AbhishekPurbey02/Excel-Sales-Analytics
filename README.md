@@ -7,7 +7,11 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AbhishekPurbey02/Excel-Sales-Analytics/blob/main/Market_Performance%20vs%20Traget.pdf)_
 
-    **3.** Create _[top 5 and bottom 5 products](https://github.com/AbhishekPurbey02/Excel-Sales-Analytics/blob/main/Top%2010%20products%202020%20to%202021.pdf)_
+    **3.** Create a _[top 5 and bottom 5 products](https://github.com/AbhishekPurbey02/Excel-Sales-Analytics/blob/main/Top%2010%20products%202020%20to%202021.pdf)_
+
+    **4.** Create a _[New Products-2021]()_
+
+    **5.** Create a _[top 5 and bottom 5 products]()_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
